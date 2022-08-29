@@ -79,7 +79,7 @@ Resolución
 
 Resolución
 
-![image](https://user-images.githubusercontent.com/105255508/187282965-5e429efe-45ce-4087-99cf-949d976e3519.png)
+![image](https://user-images.githubusercontent.com/105255508/187301018-ebcf6a19-7190-46bd-8096-d17353f56411.png)
 
 14. En la figura 17-62, determine el ángulo de fase entre el voltaje aplicado y la corriente a las frecuencias críticas. ¿Cuál es el ángulo de fase en condición de resonancia?
  
