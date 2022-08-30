@@ -417,7 +417,7 @@ Resolución
 
 https://youtu.be/7rfrd1emc7E
 
-5. CONCLUCIONES
+5. CONCLUSIONES
 
 • Por tanto, los circuitos RCL esta conformado por una resitencia, un inductor y un condensador.
 
