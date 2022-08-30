@@ -8,7 +8,7 @@ Objetivo General
 
 Objetivo Especificos
 
-• Conocer sonbre los circuitos RCL, ya sea en serie, paralelo y serie-paralelo, asi mismo la reactancia y los distintos tipos de filtros que se pueden encontrar, logrando distinguir cada uno de estos.
+• Conocer sonbre los circuitos RCL, ya sea en serie, paralelo y serie-paralelo, asi mismo la resonancia y los distintos tipos de filtros que se pueden encontrar, logrando distinguir cada uno de ellos.
 
 • Aplicar los conocimientos adquiridos en el capítulo 17 y 18 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en practica lo aprendido.
 
