@@ -16,6 +16,21 @@ Objetivo Especificos
 
 2. MARCO TEORICO
 
+![image](https://user-images.githubusercontent.com/105255508/187332195-cc870ef9-f3ce-4395-9d01-437f0b65363b.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332220-40906c59-0846-4aae-8c9a-99887dd2846e.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332246-d87fb9db-7801-445b-8ac3-dc3adc0e18a6.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332267-7697d27d-e198-4a29-83c0-701d6c5fcc7c.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332309-d9e6b738-0adf-40a6-b87a-a62581cbb637.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332333-785c9778-35c3-440d-9d88-f71ed5eb03f1.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332364-b0406aa7-16d6-494e-aee4-cc96de8443c9.png)
+
+![image](https://user-images.githubusercontent.com/105255508/187332393-245f8356-1c3b-4b6c-b9f1-4a9f1e5a16ea.png)
 
 3. EXPLICACION Y RESOLUCION DE EJERICIOS O PROBLEMAS
 
