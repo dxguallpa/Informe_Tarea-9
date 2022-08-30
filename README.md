@@ -4,15 +4,13 @@
 
 Objetivo General
 
-• Analizar y comprender los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 5 y 6, dado que es importante conocer los conceptos de circuitos en series y la utilización de la ley de Ohm en circuitos paralelos.
+• Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 17 y 18, dado que es importante analizar los circuitos RCL, Resonancia y los Filtros pasivos.
 
 Objetivo Especificos
 
-• Describir las características más importantes de los resistores en serie e identificar la corriente a través de un circuito en serie para así conocer la resistencia total en serie
+• Conocer sonbre los circuitos RCL, ya sea en serie, paralelo y serie-paralelo, asi mismo la reactancia y los distintos tipos de filtros que se pueden encontrar, logrando distinguir cada uno de estos.
 
-• Conocer los conceptos sobre un circuito resistivo paralelo para así poder identificarlo, también conocer la importancia de la ley de voltaje de Kirchhoff
-
-• Aplicar los conocimientos adquiridos en el capítulo 5 y 26 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en practica lo aprendido sobre la ley de Ohm y la potencia en resistores.
+• Aplicar los conocimientos adquiridos en el capítulo 17 y 18 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en practica lo aprendido.
 
 2. MARCO TEORICO
 
@@ -417,6 +415,18 @@ Resolución
 
 4. VIDEO
 
+https://youtu.be/7rfrd1emc7E
+
 5. CONCLUCIONES
 
+• Por tanto, los circuitos RCL esta conformado por una resitencia, un inductor y un condensador, los cuales se encuentran conectados en serio o paralelo.
+
+• En relación con lo antes expuesto, en un circuito RCL en serie, las tensiones entre los temrinales del condensador e inductor estan siempre separadas 180°. 
+
+• Para resumir,los filtros de pasaaltas permite que fluya señales de alta frecuencia y los filtros de pasabajas permite que fluya las señales de baja frecuencia.
+
+• Para sintetizar, los filtros de pasabanda permite que pasen las señales que se encuentran en un determinado intervalo de frecuencia si una frecuencia se pasa del intervalo es eliminada y los filtros de rechazabanda es lo opuesto a los filtros de pasabanda debido a que determina el intervalo de frecuencia donde las frecuencias son rechazadas.
+
 6. BIBLIOGRAFIA 
+
+Floyd TL. Principios de Circuitos Eléctricos. Octava Edición. Published online 2007:1-968. Accessed May 16, 2022. www.pearsoneducacion.net/floyd
