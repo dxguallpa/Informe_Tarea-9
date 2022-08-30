@@ -419,9 +419,9 @@ https://youtu.be/7rfrd1emc7E
 
 5. CONCLUCIONES
 
-• Por tanto, los circuitos RCL esta conformado por una resitencia, un inductor y un condensador, los cuales se encuentran conectados en serio o paralelo.
+• Por tanto, los circuitos RCL esta conformado por una resitencia, un inductor y un condensador.
 
-• En relación con lo antes expuesto, en un circuito RCL en serie, las tensiones entre los temrinales del condensador e inductor estan siempre separadas 180°. 
+• En relación con lo antes expuesto, en un circuito RCL en serie, las tensiones entre los terminales del condensador e inductor estan siempre separadas 180°. 
 
 • Para resumir,los filtros de pasaaltas permite que fluya señales de alta frecuencia y los filtros de pasabajas permite que fluya las señales de baja frecuencia.
 
