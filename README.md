@@ -4,13 +4,11 @@
 
 Objetivo General
 
-• Comprender y analizar los conceptos expuestos en el libro de Floyd “Principios de Circuitos Eléctricos” que se encuentran en el capítulo 17 y 18, dado que es importante analizar los circuitos RCL, Resonancia y los Filtros pasivos.
+- Analizar los conceptos de circuitos RLC, resonancia y filtros pasivos por medio de una ardua investigación en artículos y foros para aplicar el conocimiento adquirido en el desarrollo de ejercicios propuestos.
 
 Objetivo Especificos
 
-• Conocer sonbre los circuitos RCL, ya sea en serie, paralelo y serie-paralelo, asi mismo la resonancia y los distintos tipos de filtros que se pueden encontrar, logrando distinguir cada uno de ellos.
 
-• Aplicar los conocimientos adquiridos en el capítulo 17 y 18 del libro Principios de circuitos Eléctricos, mediando la resolución de ejercicios poniendo en practica lo aprendido.
 
 2. MARCO TEORICO
 
